@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniket Narendra Patil.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Artificial Intelligence.
+- 🌱 I’m currently learning Algorithms and Artificial Intelligence.
 - 📫 You can contact me via e-mail: contact.aniketpatil@gmail.com
 
 <!---
