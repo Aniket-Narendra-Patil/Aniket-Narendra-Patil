@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket Narendra Patil. 
 - 🎖️ I am a second year Computer Science Graduate @ Rochester Institute Of Technology, New York.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Algorithms and Artificial Intelligence.
+- 🌱 I’m currently learning Advanced Database System: NoSQL/NewSQL.
 - 📫 You can contact me via e-mail: contact.aniketpatil@gmail.com
 
 <!---
