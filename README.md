@@ -49,7 +49,7 @@
         <br/>
         <li>
           <b>Systems Engineer / Full-Stack Developer</b><br/>
-          <img src="https://img.shields.io/badge/TATA-CONSULTANCY-SERVICES-India-orange?style=flat&logo=building" /><br/>
+          <img src="https://img.shields.io/badge/TATA_CONSULTANCY_SERVICES-India-orange?style=flat&logo=building" /><br/>
           <i>2018 – 2021</i><br/>
           • <b>Performance Optimization:</b> Maintained full-stack Java EE apps (Struts 2/Hibernate), optimizing ORM queries for a <b>30% performance boost</b>.<br/>
           • <b>UI & CI/CD Pipelines:</b> Built 25+ UI modules and integrated JUnit test suites into CI/CD pipelines to accelerate release cycles and reduce bugs.
