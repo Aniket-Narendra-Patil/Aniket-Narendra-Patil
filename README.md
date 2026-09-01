@@ -30,7 +30,7 @@
       <ul>
         <li>
           <b>Software Developer (Full-Time)</b><br/>
-          <img src="https://img.shields.io/badge/TOP_US_IT_COMPANY-USA-blue?style=flat&logo=building" /><br/>
+          <img src="https://img.shields.io/badge/SAP-USA-blue?style=flat&logo=building" /><br/>
           <i>2024 – Present</i><br/>
           • <b>Agentic Code Review System:</b> Architected an autonomous multi-system review engine orchestrating LLMs, Bitbucket, Jira, and codebase Knowledge Graphs.<br/>
           • <b>GenAI Unit-Test Generation:</b> Built GenAI utility producing high-coverage unit tests directly from source code to reduce manual testing overhead.<br/>
@@ -41,7 +41,7 @@
         <br/>
         <li>
           <b>Software Developer (Intern)</b><br/>
-          <img src="https://img.shields.io/badge/TOP_US_IT_COMPANY-USA-blue?style=flat&logo=building" /><br/>
+          <img src="https://img.shields.io/badge/SAP-USA-blue?style=flat&logo=building" /><br/>
           <i>2023 – 2023</i><br/>
           • <b>LLM-Powered Fiori App:</b> Delivered production 'Software Dictionary' on SAP BTP using SAPUI5/Fiori, Node.js, and SAP HANA OData services.<br/>
           • <b>SAM Software Analysis (PoC):</b> Architected custom Fiori views and OData calculation views unifying data across Flexera, ITAM, ISP, PO, and SRI.
@@ -49,7 +49,7 @@
         <br/>
         <li>
           <b>Systems Engineer / Full-Stack Developer</b><br/>
-          <img src="https://img.shields.io/badge/TOP_INDIA_IT_COMPANY-India-orange?style=flat&logo=building" /><br/>
+          <img src="https://img.shields.io/badge/TATA-CONSULTANCY-SERVICES-India-orange?style=flat&logo=building" /><br/>
           <i>2018 – 2021</i><br/>
           • <b>Performance Optimization:</b> Maintained full-stack Java EE apps (Struts 2/Hibernate), optimizing ORM queries for a <b>30% performance boost</b>.<br/>
           • <b>UI & CI/CD Pipelines:</b> Built 25+ UI modules and integrated JUnit test suites into CI/CD pipelines to accelerate release cycles and reduce bugs.
